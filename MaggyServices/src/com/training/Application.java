@@ -8,5 +8,6 @@ public class Application {
 		
 		System.out.println("Hello Maggy,WELCOME TO Swiggy");
 		System.out.println("Developed by last bench");
+		System.out.println("Thank You Maggy");
 	}
 }
